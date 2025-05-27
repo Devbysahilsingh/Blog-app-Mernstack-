@@ -405,3 +405,4 @@ const BlogCard = React.memo(({ blog }) => {
 });
 
 export default BlogCard;
+// This is a blog card
